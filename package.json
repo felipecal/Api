@@ -1,0 +1,8 @@
+{
+  "name": "Api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/felipecal/Api.git",
+  "author": "Felipe <fcalldas@gmail.com>",
+  "license": "MIT"
+}
