@@ -4,6 +4,7 @@ export default {
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   coverageDirectory: 'coverage',
   coverageProvider: 'v8',
+  testEnviroment: 'node',
   roots: [
     '<rootDir>/src'
   ],

@@ -5,6 +5,10 @@
   "repository": "https://github.com/felipecal/Api.git",
   "author": "Felipe <fcalldas@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:staged": "jest"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^29.2.5",
@@ -20,9 +24,7 @@
     "jest": "^29.3.1",
     "lint-staged": "^13.1.0",
     "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
     "typescript": "*"
-  },
-  "scripts": {
-    "test": "jest"
   }
 }
